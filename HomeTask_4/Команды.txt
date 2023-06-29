@@ -1,0 +1,3 @@
+sudo docker build -t my-python-app .
+
+sudo docker run my-python-app
